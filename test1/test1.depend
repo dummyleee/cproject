@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523201511 source:d:\cproject\test1\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524325394 source:d:\cproject\test\main.cpp
+	<iostream>
+	<set>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<queue>
+	<cstring>
+
+1523166067 d:\cproject\test\define.h
+

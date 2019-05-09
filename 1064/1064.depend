@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1536288258 source:d:\cproject\1064\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<stdio.h>
+	<iostream>
+	<algorithm>
+

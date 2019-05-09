@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524412631 source:d:\cproject\hex_uct\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<set>
+	<cstring>
+	<queue>
+	<ctime>
+	<cmath>
+

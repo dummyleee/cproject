@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523607753 source:d:\cproject\hex2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<set>
+	<cstring>
+	<queue>
+

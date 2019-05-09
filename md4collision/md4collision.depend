@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524671128 source:d:\cproject\md4collision\main.cpp
+	<iostream>
+	<ctime>
+	<math.h>
+	<time.h>
+

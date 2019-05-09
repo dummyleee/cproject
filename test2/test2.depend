@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1523608845 source:d:\cproject\test2\main.cpp
+	<iostream>
+	<set>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<queue>
+	<cstring>
+	<iostream>
+	<set>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<queue>
+	<cstring>
+
